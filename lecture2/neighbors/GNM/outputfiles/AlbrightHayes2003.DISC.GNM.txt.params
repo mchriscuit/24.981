@@ -1,0 +1,12 @@
+GNM parameters:
+	Indel cost	0.7
+	Freq coefficients: A = 0, B = 0, C = 1
+	Frequency added constant: 2
+	P exponent:	1	D	5.75
+Training corpus
+	Skip duplicates	0
+	Collapse homophones	0
+	Monosyllables only	0
+	Lemmas only	1
+Corpus file:	wordlists/CelexLemmasInTranscription-DISC.txt
+Similarities file:	similarity/BaileyHahnSimilarityValues.stb
