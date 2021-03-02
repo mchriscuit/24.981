@@ -1,0 +1,88 @@
+b2z	20	b1z; b2u; b2d; b2t; b2k; b2l; b2n; b2t; bIz; buz; b4z; b2; bVz; b2; b2; g2z; r2z; s2z; w2z; w2z
+bl1f	6	bl1d; bl1m; bl1z; bl1z; blVf; blVf
+blIg	3	bIg; blIp; brIg
+brE_	6	brEd; brET; brEn; brI_; drE_; drE_
+J1k	27	1k; b1k; k1k; J1f; J1n; J$k; J1s; JEk; Jik; JEk; JIk; JQk; JQk; J5k; JVk; JEk; f1k; f1k; h1k; l1k; m1k; r1k; s1k; S1k; S1k; t1k; w1k
+J2nd	12	b2nd; J2d; J2ld; J2n@; J2n; f2nd; h2nd; k2nd; m2nd; r2nd; w2nd; w2nd
+Jul	17	bul; Ju; JIl; JIl; Juz; kul; kul; ful; ful; gul; _ul; pul; rul; tul; hul; jul; jul
+d1p	22	1p; k1p; d1s; d1l; d1m; d1n; d1t; d1; d1z; d1z; dip; dip; d1n; dIp; d5p; dr1p; g1p; _1p; n1p; r1p; S1p; t1p
+d2z	16	d1z; d1z; d2s; d2; d2k; d2m; d2n; d2v; d5z; d2; d2n; g2z; r2z; s2z; w2z; w2z
+dr2s	9	d2s; drEs; dr2v; drQs; dr2; pr2s; r2s; Tr2s; tr2s
+drIt	8	brIt; dr{t; drIft; drIl; drIp; dr6t; grIt; rIt
+dw5_	1	d5_
+flip	13	blip; fl{p; fli; fli; flis; flit; flit; flIp; flIp; flQp; flQp; lip; slip
+flEt	16	fl{t; fl{t; flEk; flit; flit; flES; fl2t; fl3t; flIt; fl5t; fl6t; flut; frEt; frEt; lEt; flEm
+flI_	8	flIk; flIN; flIp; flIp; flIt; flIJ; frI_; VlI_
+frIlg	2	frIl; frIlz
+g8R	33	8R; b8R; b8R; k8R; J8R; d8R; 8R; 8R; f8R; f8R; f8R; g7R; gl8R; g$R; h8R; h8R; 8R; h8R; l8R; m8R; m8R; p8R; p8R; p8R; r8R; S8R; t8R; t8R; D8R; w8R; w8R; w8R; w8R
+gEz	6	fEz; g$z; g1z; gEt; gEs; g2z
+glid	12	blid; gl{d; gl1d; glim; glin; glib; gl2d; grid; lid; lid; lid; plid
+glIp	10	blIp; klIp; klIp; flIp; flIp; glIb; grIp; grIp; lIp; slIp
+glIt	13	iglIt; 2lIt; flIt; glIb; glInt; gl5t; glVt; grIt; gVlIt; 2lIt; lIt; 6lIt; slIt
+gr2nt	3	gr#nt; gr2nd; grVnt
+grEl	6	gr1l; grEg; grIl; grIl; gr6l; gr9l
+gud	20	fud; g{d; gul; g3d; g5d; gQd; gu; guI; guf; gun; gus; g9d; g#d; g2d; mud; rud; rud; hud; hud; jud
+gwEn_	1	gwEn
+kIv	17	k#v; k#v; k1v; k5v; k3v; gIv; kIk; kId; kIl; kIn; kIN; kIp; kIs; kIt; kIJ; lIv; sIv
+krIlg	0	
+lVm	37	bVm; bVm; JVm; kVm; dVm; glVm; gVm; hVm; hVm; l{m; l{m; l1m; lIm; l2m; lIm; l5m; lum; lVv; lVk; lVd; lVg; lVl; lVmp; lVmp; lVN; lVS; lVv; mVm; nVm; plVm; plVm; plVm; rVm; slVm; sVm; sVm; TVm
+mIp	28	JIp; dIp; _Ip; hIp; hIp; kIp; lIp; m{p; mI6; mIk; mId; mI_; mIl; mIs; mIs; mIt; mQp; m5p; mIz; mIT; nIp; pIp; rIp; SIp; sIp; tIp; wIp; zIp
+m3n	26	b3n; J3n; 3n; f3n; l3n; m1n; m{n; m{n; m1n; min; min; m3_; min; m2n; m2n; m3T; m5n; mun; m$n; m$n; m3k; m3R; t3n; t3n; 3n; j3n
+n1s	26	1s; b1s; b1s; k1s; J1s; d1s; f1s; n1v; l1s; m1s; n1l; n1m; n1p; n1v; n1; n1; n1; nEs; n2s; nis; nus; n$s; n6s; n3s; p1s; r1s
+n5ld	12	b5ld; k5ld; k5ld; f5ld; n#ld; g5ld; h5ld; n5l; m5ld; n5d; 5ld; w5ld
+nVN	13	bVN; dVN; lVN; nVn; nVb; nV_; nVl; nVm; nVn; nVt; rVN; tVN; jVN
+p{Nk	20	b{Nk; d{Nk; h{Nk; l{Nk; p{k; p{N; pINk; pINk; pl{Nk; pr{Nk; pVNk; r{Nk; r{Nk; S{Nk; sp{Nk; t{Nk; T{Nk; w{Nk; j{Nk; j{Nk
+pInt	18	dInt; hInt; lInt; mInt; p1nt; p{nt; pIn; pInJ; pInJt; pIn1t; p2nt; pIst; pIt; p4nt; prInt; pVnt; kInt; tInt
+pl1k	13	fl1k; l1k; pl1s; pl1g; pl1s; pl1n; pl1n; pl1n; pl#k; pl1t; pl1; plVk; sl1k
+plIm	9	lIm; lIm; plVm; plVm; plVm; plum; p5Im; prIm; slIm
+pl5mf	0	
+pl5nT	1	plInT
+prik	15	krik; krik; frik; frik; grik; pik; pik; pik; pik; priJ; prin; prIk; rik; Srik; rik
+pVm	32	bVm; bVm; JVm; kVm; dVm; gVm; hVm; hVm; mVm; nVm; p#m; p{m; p3m; p3m; plVm; plVm; plVm; pQm; pVmP; pVb; pVk; pVf; pVg; pVmp; pVn; pVp; pVs; pVt; rVm; sVm; sVm; TVm
+pwIp	3	pIp; kwIp; wIp
+pwVdz	0	
+kwid	9	krid; kwQd; kwin; kwId; kwQd; swid; twid; wid; wid
+r2nt	13	p2nt; r{nt; rEnt; r2n; r2n5; r2t; r2t; r2nd; r2@t; r2t; rVnt; r2t; r2t
+r{sk	9	k{sk; r{k; r{k; r{Nk; r{Nk; rIsk; rVsk; r{k; r{k
+r2f	30	f2f; n2f; l2f; rif; rEf; r2k; r2n; r2m; r2s; r2d; r2f; r2fP; r2t; r2t; r2l; r2m; r2p; r2z; r2t; r2v; ruf; rVf; rVf; rVf; r2; w2f; r2t; r2t; r2D; r2
+sk4l	11	k4l; sk1l; skul; sk6l; skVl; skIl; sk3l; skVl; s4l; sp4l; sp4l
+sfund	0	
+S2nt	6	p2nt; S#nt; S2n; S2n; S2nI; SVnt
+SIlk	4	bIlk; Ilk; mIlk; sIlk
+Sruks	0	
+S3n	16	b3n; J3n; 3n; f3n; l3n; S$n; Sin; SIn; S2n; S2n; S3k; SVn; t3n; t3n; 3n; j3n
+SwuZ	0	
+skEl	15	sEl; sk1l; skul; sk6l; skVl; sEl; skEp; skEJ; skIl; sk3l; skVl; smEl; spEl; swEl; swEl
+skIk	14	kIk; s2kIk; sIk; sIk; skId; skIf; skIl; skIm; skIn; skIp; skIt; slIk; snIk; stIk
+sklund	0	
+skr2d	3	skrid; skr2b; str2d
+sl1m	14	bl1m; kl1m; fl1m; l1m; s1m; sl1k; sl{m; sl1t; sl1v; sl1; sl1; slIm; sl2m; slVm
+sm8f	0	
+sm8g	2	smQg; smVg
+smilT	0	
+sminT	0	
+sm7g	3	sm7R; smQg; smVg
+smVm	8	mVm; skVm; slVm; smV_; smVg; smVt; sVm; sVm
+snEl	9	sEl; nEl; sEl; smEl; sn1l; sn#l; spEl; swEl; swEl
+sn4ks	0	
+sp{k	20	p{k; s{k; s{k; sl{k; sl{k; sm{k; sm{k; sn{k; sp{m; sp{n; sp{Nk; sp#k; sp{t; spik; spEk; spEk; sp2k; sp5k; spuk; st{k
+splIN	8	silIN; s1lIN; s{plIN; silIN; slIN; spElIN; splIt; sprIN
+spr#f	1	str#f
+skw5lk	0	
+skwIl	6	kwIl; skIl; skw$l; skwil; skwIb; swIl
+stIn	19	s{tIn; sIn; sItIn; skIn; spIn; st1n; st2n; st3n; stIk; stIf; stIf; stIl; stIl; stIN; stInt; stIJ; st5n; stVn; tIn
+stIp	20	sIp; skIp; slIp; snIp; stip; stEp; stEp; stIk; stIf; stIf; stIl; stIl; stIN; stIpP; stIJ; stup; stup; stQp; strIp; tIp
+st2@R	7	@t2@R; s{t2@R; s2@R; sp2@R; st1@R; t2@R; t2@R
+t#k	33	#k; #k; b#k; b#k; b#k; d#k; h#k; l#k; l#k; m#k; m#k; m#k; n#k; p#k; S#k; st#k; t#; t{k; t1k; t$k; t#R; t#n; t#t; t#sk; tik; tEk; tIk; tIk; t5k; t$k; tVk; t3k; t2k
+tip	39	bip; Jip; Jip; Jip; dip; dip; hip; _ip; kip; lip; nip; pip; rip; sip; Sip; stip; ti; ti; t{p; t{p; t1p; ti; tiJ; tik; til; tim; tiz; tit; ti; tim; tiT; tipi; ti; tIp; tQp; tQp; t5p; t2p; wip
+tES	8	mES; tEk; tEd; tEl; tEn; tEnS; tQS; tVS
+T1pt	1	S1pt
+Tr4ks	0	
+Twiks	0	
+trIlb	2	trIlbI; trIl
+trIsk	5	brIsk; frIsk; rIsk; trIk; trIst
+tVNk	14	bVNk; bVNk; JVNk; dVNk; fVNk; hVNk; _VNk; mVNk; pVNk; t{Nk; tVN; trVNk; tVk; tVsk
+twu	7	tu; tu; tru; tru; twi; tu; wu
+wIs	33	hIs; kIs; mIs; mIs; pIs; sIs; swIs; DIs; wIJ; wIf; wIg; wIm; wIn; wIp; wIsk; wIst; wIsP; wIt; wIz; wIk; wIg; wIl; wIl; wIn; wIns; wIN; wIS; wIsp; wIt; wIJ; wID; wIT; w3s
+z1ps	0	
+z1	40	1; 1; 11; 1; 1; b1; b1; b1; b1; d1; 1; f1; f1; g1; h1; h1; _1; _1; _1; k1; k1; l1; l1; m1; n1; n1; n1; p1; r1; z; s1; S1; D1; w1; w1; w1; j1; j1; zi; zu
