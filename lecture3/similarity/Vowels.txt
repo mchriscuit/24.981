@@ -1,0 +1,6 @@
+	high	low	back
+a	-	+	+
+e	-	-	-
+i	+	-	-
+o	-	-	+
+u	+	-	+
