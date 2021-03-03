@@ -1,0 +1,6 @@
+	high	low	back	round
+a	-	+	+	-
+e	-	-	-	-
+i	+	-	-	-
+o	-	-	+	+
+u	+	-	+	+

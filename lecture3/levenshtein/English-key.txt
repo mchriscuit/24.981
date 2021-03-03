@@ -1,0 +1,30 @@
+This file contains the feature values used for the English past tense simulations in Albright and Hayes "Rules vs. Analogy: A computational/experimental study"
+
+Consonants:
+stops:		p t k b d g
+fricatives:
+		f v s z, h
+		T, D = voiceless/voiced interdental fricatives (theta, edh)
+		S, Z = voiceless/voiced alveopalatal fricatives
+affricates:	C   J    (voiceless and voiced)
+nasals:		m n N (=engma)
+liquids:	l r 
+glides:		w y
+
+vowels:	
+	tense:	i e o u
+	lax:	I E U
+		ç = open o
+		Q = æ (ash)
+		´ = schwa
+		√ = wedge (upside-down v)
+		’ = syllabic r / r-colored mid central vowel
+	(these made sense because they show up right on the mac when
+	 put into the SIL IPA fonts)
+
+	diphthongs:
+		Y = aI
+		W = aU
+		O = ÁI
+
+The feature values are slightly unorthodox, in that they involve some linearized scalar feature (that is, the features used in the simulations for "Rules vs. analogy" used scalar features for sonority, vowel height, etc., but for the purposes of natural classes, these have been converted to multiple bivalent features.
