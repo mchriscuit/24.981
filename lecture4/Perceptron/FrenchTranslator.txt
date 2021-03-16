@@ -1,0 +1,7 @@
+			in=dans	in=en	in=à	in=au cours de	in=pendant
+			in=dans	in=en	in=à	in=au cours de	in=pendant
+in	dans	1		1	1	1	1
+	en	1	1		1	1	1
+	à	1	1	1		1	1
+	au cours de	1	1	1	1		1
+	pendant	1	1	1	1	1	

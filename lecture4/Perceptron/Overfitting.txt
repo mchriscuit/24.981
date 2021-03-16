@@ -1,0 +1,18 @@
+			Id(±ant)	*si	*ʃi	*ʃ	*s	*s...k	*s...[-cont,-son]	*s...[-cor]	*ʃapa	*saka	*ʃula	*skata	*ʃepa	*sika	*sipa	*si[pk]a	*sV[pk]a
+			Id(±ant)	*si	*ʃi	*ʃ	*s	*s...k	*s...[-cont,-son]	*s...[-cor]	*ʃapa	*saka	*ʃula	*skata	*ʃepa	*sika	*sipa	*si[pk]a	*sV[pk]a
+sapa	sapa	1					1		1	1									1
+	ʃapa		1			1					1								
+ʃaka	ʃaka	1				1													
+	saka		1				1	1	1	1		1							1
+sula	sula	1					1												
+	ʃula		1			1							1						
+ʃkata	ʃkata	1				1													
+	skata		1				1	1	1	1				1					
+sepa	sepa	1					1		1	1									1
+	ʃepa		1			1									1				
+sika	ʃika	1	1		1	1													
+	sika			1			1	1	1	1						1		1	1
+sipa	ʃipa	1	1		1	1													
+	sipa			1			1		1	1							1	1	1
+sina	sina			1			1												
+	ʃina		1		1	1

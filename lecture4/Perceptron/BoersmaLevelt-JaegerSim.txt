@@ -1,0 +1,83 @@
+			NoCoda	Onset	*ComplexOnset	*ComplexCoda	Faith
+			NoCoda	Onset	*[CC	*CC]	Faith
+CV	CV	4481	0	0	0	0	0
+	CVC		1	0	0	0	1
+	V		0	1	0	0	1
+	VC		1	1	0	0	1
+	CCV		0	0	1	0	1
+	CCVC		1	0	1	0	1
+	CVCC		1	0	0	1	1
+	VCC		1	1	0	1	1
+	CCVCC		1	0	1	1	1
+CVC	CV		0	0	0	0	1
+	CVC	3205	1	0	0	0	0
+	V		0	1	0	0	1
+	VC		1	1	0	0	1
+	CCV		0	0	1	0	1
+	CCVC		1	0	1	0	1
+	CVCC		1	0	0	1	1
+	VCC		1	1	0	1	1
+	CCVCC		1	0	1	1	1
+V	CV		0	0	0	0	1
+	CVC		1	0	0	0	1
+	V	385	0	1	0	0	0
+	VC		1	1	0	0	1
+	CCV		0	0	1	0	1
+	CCVC		1	0	1	0	1
+	CVCC		1	0	0	1	1
+	VCC		1	1	0	1	1
+	CCVCC		1	0	1	1	1
+VC	CV		0	0	0	0	1
+	CVC		1	0	0	0	1
+	V		0	1	0	0	1
+	VC	1199	1	1	0	0	0
+	CCV		0	0	1	0	1
+	CCVC		1	0	1	0	1
+	CVCC		1	0	0	1	1
+	VCC		1	1	0	1	1
+	CCVCC		1	0	1	1	1
+CCV	CV		0	0	0	0	1
+	CVC		1	0	0	0	1
+	V		0	1	0	0	1
+	VC		1	1	0	0	1
+	CCV	138	0	0	1	0	0
+	CCVC		1	0	1	0	1
+	CVCC		1	0	0	1	1
+	VCC		1	1	0	1	1
+	CCVCC		1	0	1	1	1
+CCVC	CV		0	0	0	0	1
+	CVC		1	0	0	0	1
+	V		0	1	0	0	1
+	VC		1	1	0	0	1
+	CCV		0	0	1	0	1
+	CCVC	198	1	0	1	0	0
+	CVCC		1	0	0	1	1
+	VCC		1	1	0	1	1
+	CCVCC		1	0	1	1	1
+CVCC	CV		0	0	0	0	1
+	CVC		1	0	0	0	1
+	V		0	1	0	0	1
+	VC		1	1	0	0	1
+	CCV		0	0	1	0	1
+	CCVC		1	0	1	0	1
+	CVCC	325	1	0	0	1	0
+	VCC		1	1	0	1	1
+	CCVCC		1	0	1	1	1
+VCC	CV		0	0	0	0	1
+	CVC		1	0	0	0	1
+	V		0	1	0	0	1
+	VC		1	1	0	0	1
+	CCV		0	0	1	0	1
+	CCVC		1	0	1	0	1
+	CVCC		1	0	0	1	1
+	VCC	42	1	1	0	1	0
+	CCVCC		1	0	1	1	1
+CCVCC	CV		0	0	0	0	1
+	CVC		1	0	0	0	1
+	V		0	1	0	0	1
+	VC		1	1	0	0	1
+	CCV		0	0	1	0	1
+	CCVC		1	0	1	0	1
+	CVCC		1	0	0	1	1
+	VCC		1	1	0	1	1
+	CCVCC	26	1	0	1	1	0
