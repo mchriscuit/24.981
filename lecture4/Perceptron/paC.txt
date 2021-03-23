@@ -1,0 +1,6 @@
+			NoCoda	NoCodaObs	Max
+			NoCoda	NoCodaObs	Max
+/pat/	pat		1	1	
+	pa	1			1
+/pak/	pak		1	1	
+	pa	1			1
