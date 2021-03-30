@@ -1,0 +1,81 @@
+Length of tableau data: 8
+Inputs:
+['In1', 'In2', 'In3', 'In4']
+
+Candidates:
+[['Out1W', 'Out1L'], ['Out2W', 'Out2L'], ['Out3W', 'Out3L'], ['Out4W', 'Out4L']]
+
+Candidate frequencies:
+[[1, 0], [1, 0], [1, 0], [1, 0]]
+
+Constraint violations:
+[[[0, 1, 0, 0, 0], [1, 0, 1, 0, 0]], [[0, 0, 1, 0, 0], [0, 1, 0, 1, 0]], [[0, 0, 0, 1, 0], [0, 0, 1, 0, 1]], [[0, 0, 0, 0, 1], [0, 0, 0, 1, 0]]]
+
+Length of training data: 4 inputs, 4 outputs
+
+No constraint types given; using default initial ranking value for all constraints.Constraint types: ['', '', '', '', '']
+
+Initial rankings: [100.0, 100.0, 100.0, 100.0, 100.0]
+
+
+Trial 1: Learning is required, for input 0 /In1/.
+	Mom said: [Out1W]
+	I would have said [Out1L]
+	Undominated loser_preferrers (demoting by 0.1): [1]
+	Winner-preferrers (promoting by 0.3333333333333333): [0, 2]
+
+Trial 4: Learning is required, for input 1 /In2/.
+	Mom said: [Out2W]
+	I would have said [Out2L]
+	Undominated loser_preferrers (demoting by 0.1): [2]
+	Winner-preferrers (promoting by 0.3333333333333333): [1, 3]
+
+Trial 11: Learning is required, for input 2 /In3/.
+	Mom said: [Out3W]
+	I would have said [Out3L]
+	Undominated loser_preferrers (demoting by 0.1): [3]
+	Winner-preferrers (promoting by 0.3333333333333333): [2, 4]
+
+Trial 14: Learning is required, for input 3 /In4/.
+	Mom said: [Out4W]
+	I would have said [Out4L]
+	Undominated loser_preferrers (demoting by 0.1): [4]
+	Winner-preferrers (promoting by 0.5): [3]
+
+Trial 17: Learning is required, for input 2 /In3/.
+	Mom said: [Out3W]
+	I would have said [Out3L]
+	Undominated loser_preferrers (demoting by 0.1): [3]
+	Winner-preferrers (promoting by 0.3333333333333333): [2, 4]
+
+Trial 18: Learning is required, for input 3 /In4/.
+	Mom said: [Out4W]
+	I would have said [Out4L]
+	Undominated loser_preferrers (demoting by 0.1): [4]
+	Winner-preferrers (promoting by 0.5): [3]
+
+Trial 26: Learning is required, for input 1 /In2/.
+	Mom said: [Out2W]
+	I would have said [Out2L]
+	Undominated loser_preferrers (demoting by 0.1): [2]
+	Winner-preferrers (promoting by 0.3333333333333333): [1, 3]
+
+Trial 39: Learning is required, for input 2 /In3/.
+	Mom said: [Out3W]
+	I would have said [Out3L]
+	Undominated loser_preferrers (demoting by 0.1): [3]
+	Winner-preferrers (promoting by 0.3333333333333333): [2, 4]
+
+Trial 40: Learning is required, for input 3 /In4/.
+	Mom said: [Out4W]
+	I would have said [Out4L]
+	Undominated loser_preferrers (demoting by 0.1): [4]
+	Winner-preferrers (promoting by 0.5): [3]
+rankings after learning:
+	Con1	100.03333333333333
+	Con2	99.96666666666667
+	Con3	99.93333333333334
+	Con4	99.91666666666667
+	Con5	99.80000000000001
+
+Testing the final grammar. (See .out file for results)
