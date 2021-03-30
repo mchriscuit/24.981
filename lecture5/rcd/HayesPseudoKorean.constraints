@@ -1,0 +1,8 @@
+Ident (asp)	F
+Ident (voice)	F
+Ident (asp)/_V	F
+Ident (voice)/_V	F
+*[+v][-v][+v]	M
+*dh	M
+*[-son/+voice]	M
+*aspiration	M
