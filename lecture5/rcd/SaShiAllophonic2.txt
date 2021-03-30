@@ -1,0 +1,6 @@
+			*si	*s	*ʃ	F(ant)
+			*si	*s	*ʃ	F(ant)
+sa	sa	1		1		
+	ʃa				1	1
+ʃi	ʃi	1			1	
+	si		1	1		1

@@ -1,0 +1,130 @@
+Length of tableau data: 6
+Inputs:
+['In1', 'In2', 'In3']
+
+Candidates:
+[['Out1W', 'Out1L'], ['Out2W', 'Out2L'], ['Out3W', 'Out3L']]
+
+Candidate frequencies:
+[[1, 0], [1, 0], [1, 0]]
+
+Constraint violations:
+[[[0, 1, 0, 0], [1, 0, 1, 0]], [[0, 0, 1, 0], [0, 1, 0, 1]], [[0, 0, 0, 1], [0, 0, 1, 0]]]
+
+Length of training data: 3 inputs, 3 outputs
+
+Constraint types: ['', '', '', '']
+
+Initial rankings: [0.0, 0.0, 0.0, 0.0]
+
+
+Trial 0: Learning is required, for input 2 /In3/.
+	Mom said: [Out3W]
+	I would have said [Out3L]
+
+Trial 5: Learning is required, for input 1 /In2/.
+	Mom said: [Out2W]
+	I would have said [Out2L]
+
+Trial 6: Learning is required, for input 2 /In3/.
+	Mom said: [Out3W]
+	I would have said [Out3L]
+
+Trial 7: Learning is required, for input 0 /In1/.
+	Mom said: [Out1W]
+	I would have said [Out1L]
+
+Trial 8: Learning is required, for input 1 /In2/.
+	Mom said: [Out2W]
+	I would have said [Out2L]
+
+Trial 10: Learning is required, for input 2 /In3/.
+	Mom said: [Out3W]
+	I would have said [Out3L]
+
+Trial 11: Learning is required, for input 1 /In2/.
+	Mom said: [Out2W]
+	I would have said [Out2L]
+
+Trial 13: Learning is required, for input 0 /In1/.
+	Mom said: [Out1W]
+	I would have said [Out1L]
+
+Trial 15: Learning is required, for input 1 /In2/.
+	Mom said: [Out2W]
+	I would have said [Out2L]
+
+Trial 22: Learning is required, for input 0 /In1/.
+	Mom said: [Out1W]
+	I would have said [Out1L]
+
+Trial 25: Learning is required, for input 1 /In2/.
+	Mom said: [Out2W]
+	I would have said [Out2L]
+
+Trial 33: Learning is required, for input 2 /In3/.
+	Mom said: [Out3W]
+	I would have said [Out3L]
+
+Trial 35: Learning is required, for input 2 /In3/.
+	Mom said: [Out3W]
+	I would have said [Out3L]
+
+Trial 37: Learning is required, for input 1 /In2/.
+	Mom said: [Out2W]
+	I would have said [Out2L]
+
+Trial 39: Learning is required, for input 0 /In1/.
+	Mom said: [Out1W]
+	I would have said [Out1L]
+
+Trial 41: Learning is required, for input 1 /In2/.
+	Mom said: [Out2W]
+	I would have said [Out2L]
+
+Trial 44: Learning is required, for input 2 /In3/.
+	Mom said: [Out3W]
+	I would have said [Out3L]
+
+Trial 48: Learning is required, for input 1 /In2/.
+	Mom said: [Out2W]
+	I would have said [Out2L]
+
+Trial 51: Learning is required, for input 2 /In3/.
+	Mom said: [Out3W]
+	I would have said [Out3L]
+
+Trial 59: Learning is required, for input 0 /In1/.
+	Mom said: [Out1W]
+	I would have said [Out1L]
+
+Trial 60: Learning is required, for input 1 /In2/.
+	Mom said: [Out2W]
+	I would have said [Out2L]
+
+Trial 61: Learning is required, for input 2 /In3/.
+	Mom said: [Out3W]
+	I would have said [Out3L]
+
+Trial 63: Learning is required, for input 1 /In2/.
+	Mom said: [Out2W]
+	I would have said [Out2L]
+
+Trial 64: Learning is required, for input 0 /In1/.
+	Mom said: [Out1W]
+	I would have said [Out1L]
+
+Trial 74: Learning is required, for input 1 /In2/.
+	Mom said: [Out2W]
+	I would have said [Out2L]
+
+Trial 75: Learning is required, for input 2 /In3/.
+	Mom said: [Out3W]
+	I would have said [Out3L]
+rankings after learning:
+	Con1	0.6
+	Con2	0.5
+	Con3	0.4
+	Con4	0.30000000000000004
+
+Testing the final grammar. (See .out file for results)

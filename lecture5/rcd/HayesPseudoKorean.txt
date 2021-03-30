@@ -1,0 +1,118 @@
+			Ident (asp)	Ident (voice)	Ident (asp)/_V	Ident (voice)/_V	*[+v][-v][+v]	*dh	*[-son/+voice]	*aspiration
+			Id (asp)	Id (voice)	Id (asp)/_V	Id (voice)/_V	*[+v][-v][+v]	*dh	*[-son/+voice]	*asp
+ta	ta	1								
+	da			1		1			1	
+	tha		1		1					1
+	dha		1	1	1	1		1	1	1
+tha	tha	1								1
+	ta		1		1					
+	da		1	1	1	1			1	
+	dha			1		1		1	1	1
+ada	ada	1							1	
+	ata			1		1	1			
+	atha		1	1	1	1	1			1
+	adha		1		1			1	1	1
+atha	atha	1					1			1
+	ata		1		1		1			
+	ada		1	1	1	1			1	
+	adha			1		1		1	1	1
+at	at	1								
+	ad			1					1	
+	ath		1							1
+	adh		1	1				1	1	1
+tada	tada	1							1	
+	tata			1		1	1			
+	tatha		1	1	1	1	1			1
+	tadha		1		1			1	1	1
+	data			2		2	1		1	
+	dada			1		1			2	
+	datha		1	2	1	2	1		1	1
+	dadha		1	1	1	1		1	2	1
+	thata		1	1	1	1	1			1
+	thada		1		1				1	1
+	thatha		2	1	2	1	1			2
+	thadha		2		2			1	1	2
+	dhata		1	2	1	2	1	1	1	1
+	dhada		1	1	1	1		1	2	1
+	dhatha		2	2	2	2	1	1	1	2
+	dhadha		2	1	2	1		2	2	2
+tatha	tatha	1					1			1
+	tata		1		1		1			
+	tada		1	1	1	1			1	
+	tadha			1		1		1	1	1
+	data		1	1	1	1	1		1	
+	dada		1	2	1	2			2	
+	datha			1		1	1		1	1
+	dadha			2		2		1	2	1
+	thata		2		2		1			1
+	thada		2	1	2	1			1	1
+	thatha		1		1		1			2
+	thadha		1	1	1	1		1	1	2
+	dhata		2	1	2	1	1	1	1	1
+	dhada		2	2	2	2		1	2	1
+	dhatha		1	1	1	1	1	1	1	2
+	dhadha		1	2	1	2		2	2	2
+thada	thada	1							1	1
+	tata		1	1	1	1	1			
+	tada		1		1				1	
+	tatha		2	1	2	1	1			1
+	tadha		2		2			1	1	1
+	data		1	2	1	2	1		1	
+	dada		1	1	1	1			2	
+	datha		2	2	2	2	1		1	1
+	dadha		2	1	2	1		1	2	1
+	thata			1		1	1			1
+	thatha		1	1	1	1	1			2
+	thadha		1		1			1	1	2
+	dhata			2		2	1	1	1	1
+	dhada			1		1		1	2	1
+	dhatha		1	2	1	2	1	1	1	2
+	dhadha		1	1	1	1		2	2	2
+thatha	thatha	1					1			2
+	tata		2		2		1			
+	tada		2	1	2	1			1	
+	tatha		1		1		1			1
+	tadha		1	1	1	1		1	1	1
+	data		2	1	2	1	1		1	
+	dada		2	2	2	2			2	
+	datha		1	1	1	1	1		1	1
+	dadha		1	2	1	2		1	2	1
+	thata		1		1		1			1
+	thada		1	1	1	1			1	1
+	thadha			1		1		1	1	2
+	dhata		1	1	1	1	1	1	1	1
+	dhada		1	2	1	2		1	2	1
+	dhatha			1		1	1	1	1	2
+	dhadha			2		2		2	2	2
+tat	tat	1								
+	tad			1					1	
+	tath		1							1
+	tadh		1	1				1	1	1
+	dat			1		1			1	
+	dad			2		1			2	
+	dath		1	1		1			1	1
+	dadh		1	2		1		1	2	1
+	that		1		1					1
+	thad		1	1	1				1	1
+	thath		2		1					2
+	thadh		2	1	1			1	1	2
+	dhat		1	1	1	1		1	1	1
+	dhad		1	2	1	1		1	2	1
+	dhath		2	1	1	1		1	1	2
+	dhadh		2	2	1	1		2	2	2
+that	that	1								1
+	tat		1		1					
+	tad		1	1	1				1	
+	tath		2		1					1
+	tadh		2	1	1			1	1	1
+	dat		1	1	1	1			1	
+	dad		1	2	1	1			2	
+	dath		2	1	1	1			1	1
+	dadh		2	2	1	1		1	2	1
+	thad			1					1	1
+	thath		1							2
+	thadh		1	1				1	1	2
+	dhat			1		1		1	1	1
+	dhad			2		1		1	2	1
+	dhath		1	1		1		1	1	2
+	dhadh		1	2		1		2	2	2

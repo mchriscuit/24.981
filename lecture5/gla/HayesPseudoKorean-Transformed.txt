@@ -1,0 +1,304 @@
+			Ident (asp)	Ident (voice)	Ident (asp)/_V	Ident (voice)/_V	*[+v][-v][+v]	*dh	*[-son/+voice]	*aspiration
+			Id (asp)	Id (voice)	Id (asp)/_V	Id (voice)/_V	*[+v][-v][+v]	*dh	*[-son/+voice]	*asp
+ta	ta	1	0	0	0	0	0	0	0	0
+	da		0	1	0	1	0	0	1	0
+ta	ta	1	0	0	0	0	0	0	0	0
+	tha		1	0	1	0	0	0	0	1
+ta	ta	1	0	0	0	0	0	0	0	0
+	dha		1	1	1	1	0	1	1	1
+tha	tha	1	0	0	0	0	0	0	0	2
+	ta		1	0	1	0	0	0	0	0
+tha	tha	1	0	0	0	0	0	0	0	5
+	da		1	1	1	1	0	0	1	0
+tha	tha	1	0	0	0	0	0	0	0	0
+	dha		0	1	0	1	0	1	1	0
+da1	ta		0	1	0	0	0	0	0	0
+	da		0	0	0	0	0	0	1	0
+da2	ta		0	0	0	1	0	0	0	0
+	da		0	0	0	0	0	0	1	0
+da	ta		0	0	0	0	0	0	0	0
+	tha		1	0	1	0	0	0	0	1
+da1	ta		0	5	0	0	0	0	0	0
+	dha		1	0	1	0	0	1	1	1
+da2	ta		0	0	0	5	0	0	0	0
+	dha		1	0	1	0	0	1	1	1
+dha	ta		0	1	0	0	0	0	0	0
+	da		0	0	0	0	0	0	1	0
+dha	ta		0	0	0	1	0	0	0	0
+	da		0	0	0	0	0	0	1	0
+dha	ta		1	0	0	0	0	0	0	0
+	tha		0	0	0	0	0	0	0	1
+dha	ta		0	0	1	0	0	0	0	0
+	tha		0	0	0	0	0	0	0	1
+dha	ta		3	0	0	0	0	0	0	0
+	dha		0	0	0	0	0	1	1	1
+dha	ta		0	3	0	0	0	0	0	0
+	dha		0	0	0	0	0	1	1	1
+dha	ta		0	0	3	0	0	0	0	0
+	dha		0	0	0	0	0	1	1	1
+dha	ta		0	0	0	3	0	0	0	0
+	dha		0	0	0	0	0	1	1	1
+ada	ada	1	0	0	0	0	0	0	3	0
+	ata		0	1	0	1	1	0	0	0
+ada	ada	1	0	0	0	0	0	0	6	0
+	atha		1	1	1	1	1	0	0	1
+ada	ada	1	0	0	0	0	0	0	0	0
+	adha		1	0	1	0	0	1	0	1
+atha	atha	1	0	0	0	0	0	0	0	2
+	ata		1	0	1	0	0	0	0	0
+atha	atha	1	0	0	0	0	5	0	0	0
+	ada		1	1	1	1	0	0	1	0
+atha	atha	1	0	0	0	0	0	0	0	5
+	ada		1	1	1	1	0	0	1	0
+atha	atha	1	0	0	0	0	4	0	0	0
+	adha		0	1	0	1	0	1	1	0
+ata	ada		0	1	0	0	0	0	0	0
+	ata		0	0	0	0	1	0	0	0
+ata	ada		0	0	0	1	0	0	0	0
+	ata		0	0	0	0	1	0	0	0
+ata	ada		0	0	0	0	0	0	1	0
+	ata		0	0	0	0	1	0	0	0
+ata	ada		0	4	0	0	0	0	0	0
+	atha		1	0	1	0	1	0	0	1
+ata	ada		0	0	0	4	0	0	0	0
+	atha		1	0	1	0	1	0	0	1
+ata	ada		0	0	0	0	0	0	4	0
+	atha		1	0	1	0	1	0	0	1
+ata	ada		0	0	0	0	0	0	0	0
+	adha		1	0	1	0	0	1	0	1
+adha	ada		0	0	0	0	0	0	3	0
+	ata		0	1	0	1	1	0	0	0
+adha	ada		4	0	0	0	0	0	0	0
+	atha		0	1	0	1	1	0	0	1
+adha	ada		0	0	4	0	0	0	0	0
+	atha		0	1	0	1	1	0	0	1
+adha	ada		0	0	0	0	0	0	4	0
+	atha		0	1	0	1	1	0	0	1
+adha	ada		2	0	0	0	0	0	0	0
+	adha		0	0	0	0	0	1	0	1
+adha	ada		0	0	2	0	0	0	0	0
+	adha		0	0	0	0	0	1	0	1
+at	at	1	0	0	0	0	0	0	0	0
+	ad		0	1	0	0	0	0	1	0
+at	at	1	0	0	0	0	0	0	0	0
+	ath		1	0	0	0	0	0	0	1
+at	at	1	0	0	0	0	0	0	0	0
+	adh		1	1	0	0	0	1	1	1
+ath	at		0	0	0	0	0	0	0	0
+	ad		0	1	0	0	0	0	1	0
+ath	at		1	0	0	0	0	0	0	0
+	ath		0	0	0	0	0	0	0	1
+ath	at		4	0	0	0	0	0	0	0
+	adh		0	1	0	0	0	1	1	1
+ad	at		0	1	0	0	0	0	0	0
+	ad		0	0	0	0	0	0	1	0
+ad	at		0	0	0	0	0	0	0	0
+	ath		1	0	0	0	0	0	0	1
+ad	at		0	4	0	0	0	0	0	0
+	adh		1	0	0	0	0	1	1	1
+adh	at		0	1	0	0	0	0	0	0
+	ad		0	0	0	0	0	0	1	0
+adh	at		1	0	0	0	0	0	0	0
+	ath		0	0	0	0	0	0	0	1
+adh	at		3	0	0	0	0	0	0	0
+	adh		0	0	0	0	0	1	1	1
+adh	at		0	3	0	0	0	0	0	0
+	adh		0	0	0	0	0	1	1	1
+tada	tada	1	0	0	0	0	0	0	3	0
+	tata		0	1	0	1	1	0	0	0
+tada	tada	1	0	0	0	0	0	0	6	0
+	tatha		1	1	1	1	1	0	0	1
+tada	tada	1	0	0	0	0	0	0	0	0
+	tadha		1	0	1	0	0	1	0	1
+tada	tada	1	0	0	0	0	0	0	0	0
+	data		0	1	0	1	1	0	0	0
+tada	tada	1	0	0	0	0	0	0	0	0
+	dada		0	1	0	1	0	0	1	0
+tada	tada	1	0	0	0	0	0	0	0	0
+	datha		1	1	1	1	1	0	0	1
+tada	tada	1	0	0	0	0	0	0	0	0
+	dadha		1	1	1	1	0	1	1	1
+tada	tada	1	0	0	0	0	0	0	6	0
+	thata		1	1	1	1	1	0	0	1
+tada	tada	1	0	0	0	0	0	0	0	0
+	thada		1	0	1	0	0	0	0	1
+tada	tada	1	0	0	0	0	0	0	6	0
+	thatha		1	1	1	1	1	0	0	1
+tada	tada	1	0	0	0	0	0	0	0	0
+	thadha		1	0	1	0	0	1	0	1
+tada	tada	1	0	0	0	0	0	0	0	0
+	dhata		1	1	1	1	1	1	0	1
+tada	tada	1	0	0	0	0	0	0	0	0
+	dhada		1	1	1	1	0	1	1	1
+tada	tada	1	0	0	0	0	0	0	0	0
+	dhatha		1	1	1	1	1	1	0	1
+tada	tada	1	0	0	0	0	0	0	0	0
+	dhadha		1	1	1	1	0	1	1	1
+tatha	tatha	1	0	0	0	0	0	0	0	2
+	tata		1	0	1	0	0	0	0	0
+tatha	tatha	1	0	0	0	0	5	0	0	0
+	tada		1	1	1	1	0	0	1	0
+tatha	tatha	1	0	0	0	0	0	0	0	5
+	tada		1	1	1	1	0	0	1	0
+tatha	tatha	1	0	0	0	0	4	0	0	0
+	tadha		0	1	0	1	0	1	1	0
+tatha	tatha	1	0	0	0	0	0	0	0	5
+	data		1	1	1	1	0	0	1	0
+tatha	tatha	1	0	0	0	0	5	0	0	0
+	dada		1	1	1	1	0	0	1	0
+tatha	tatha	1	0	0	0	0	0	0	0	5
+	dada		1	1	1	1	0	0	1	0
+tatha	tatha	1	0	0	0	0	0	0	0	0
+	datha		0	1	0	1	0	0	1	0
+tatha	tatha	1	0	0	0	0	4	0	0	0
+	dadha		0	1	0	1	0	1	1	0
+tatha	tatha	1	0	0	0	0	0	0	0	0
+	thata		1	0	1	0	0	0	0	0
+tatha	tatha	1	0	0	0	0	5	0	0	0
+	thada		1	1	1	1	0	0	1	0
+tatha	tatha	1	0	0	0	0	0	0	0	0
+	thatha		1	0	1	0	0	0	0	1
+tatha	tatha	1	0	0	0	0	7	0	0	0
+	thadha		1	1	1	1	0	1	1	1
+tatha	tatha	1	0	0	0	0	0	0	0	0
+	dhata		1	1	1	1	0	1	1	0
+tatha	tatha	1	0	0	0	0	6	0	0	0
+	dhada		1	1	1	1	0	1	1	0
+tatha	tatha	1	0	0	0	0	0	0	0	0
+	dhatha		1	1	1	1	0	1	1	1
+tatha	tatha	1	0	0	0	0	7	0	0	0
+	dhadha		1	1	1	1	0	1	1	1
+thada	thada	1	0	0	0	0	0	0	5	0
+	tata		1	1	1	1	1	0	0	0
+thada	thada	1	0	0	0	0	0	0	0	5
+	tata		1	1	1	1	1	0	0	0
+thada	thada	1	0	0	0	0	0	0	0	2
+	tada		1	0	1	0	0	0	0	0
+thada	thada	1	0	0	0	0	0	0	5	0
+	tatha		1	1	1	1	1	0	0	0
+thada	thada	1	0	0	0	0	0	0	0	0
+	tadha		1	0	1	0	0	1	0	0
+thada	thada	1	0	0	0	0	0	0	0	5
+	data		1	1	1	1	1	0	0	0
+thada	thada	1	0	0	0	0	0	0	0	5
+	dada		1	1	1	1	0	0	1	0
+thada	thada	1	0	0	0	0	0	0	0	0
+	datha		1	1	1	1	1	0	0	0
+thada	thada	1	0	0	0	0	0	0	0	0
+	dadha		1	1	1	1	0	1	1	0
+thada	thada	1	0	0	0	0	0	0	3	0
+	thata		0	1	0	1	1	0	0	0
+thada	thada	1	0	0	0	0	0	0	6	0
+	thatha		1	1	1	1	1	0	0	1
+thada	thada	1	0	0	0	0	0	0	0	0
+	thadha		1	0	1	0	0	1	0	1
+thada	thada	1	0	0	0	0	0	0	0	0
+	dhata		0	1	0	1	1	1	0	0
+thada	thada	1	0	0	0	0	0	0	0	0
+	dhada		0	1	0	1	0	1	1	0
+thada	thada	1	0	0	0	0	0	0	0	0
+	dhatha		1	1	1	1	1	1	0	1
+thada	thada	1	0	0	0	0	0	0	0	0
+	dhadha		1	1	1	1	0	1	1	1
+thatha	thatha	1	0	0	0	0	0	0	0	2
+	tata		1	0	1	0	0	0	0	0
+thatha	thatha	1	0	0	0	0	5	0	0	0
+	tada		1	1	1	1	0	0	1	0
+thatha	thatha	1	0	0	0	0	0	0	0	5
+	tada		1	1	1	1	0	0	1	0
+thatha	thatha	1	0	0	0	0	0	0	0	2
+	tatha		1	0	1	0	0	0	0	0
+thatha	thatha	1	0	0	0	0	6	0	0	0
+	tadha		1	1	1	1	0	1	1	0
+thatha	thatha	1	0	0	0	0	0	0	0	6
+	tadha		1	1	1	1	0	1	1	0
+thatha	thatha	1	0	0	0	0	0	0	0	5
+	data		1	1	1	1	0	0	1	0
+thatha	thatha	1	0	0	0	0	5	0	0	0
+	dada		1	1	1	1	0	0	1	0
+thatha	thatha	1	0	0	0	0	0	0	0	5
+	dada		1	1	1	1	0	0	1	0
+thatha	thatha	1	0	0	0	0	0	0	0	5
+	datha		1	1	1	1	0	0	1	0
+thatha	thatha	1	0	0	0	0	6	0	0	0
+	dadha		1	1	1	1	0	1	1	0
+thatha	thatha	1	0	0	0	0	0	0	0	6
+	dadha		1	1	1	1	0	1	1	0
+thatha	thatha	1	0	0	0	0	0	0	0	2
+	thata		1	0	1	0	0	0	0	0
+thatha	thatha	1	0	0	0	0	5	0	0	0
+	thada		1	1	1	1	0	0	1	0
+thatha	thatha	1	0	0	0	0	0	0	0	5
+	thada		1	1	1	1	0	0	1	0
+thatha	thatha	1	0	0	0	0	4	0	0	0
+	thadha		0	1	0	1	0	1	1	0
+thatha	thatha	1	0	0	0	0	0	0	0	6
+	dhata		1	1	1	1	0	1	1	0
+thatha	thatha	1	0	0	0	0	6	0	0	0
+	dhada		1	1	1	1	0	1	1	0
+thatha	thatha	1	0	0	0	0	0	0	0	6
+	dhada		1	1	1	1	0	1	1	0
+thatha	thatha	1	0	0	0	0	0	0	0	0
+	dhatha		0	1	0	1	0	1	1	0
+thatha	thatha	1	0	0	0	0	4	0	0	0
+	dhadha		0	1	0	1	0	1	1	0
+tat	tat	1	0	0	0	0	0	0	0	0
+	tad		0	1	0	0	0	0	1	0
+tat	tat	1	0	0	0	0	0	0	0	0
+	tath		1	0	0	0	0	0	0	1
+tat	tat	1	0	0	0	0	0	0	0	0
+	tadh		1	1	0	0	0	1	1	1
+tat	tat	1	0	0	0	0	0	0	0	0
+	dat		0	1	0	1	0	0	1	0
+tat	tat	1	0	0	0	0	0	0	0	0
+	dad		0	1	0	1	0	0	1	0
+tat	tat	1	0	0	0	0	0	0	0	0
+	dath		1	1	0	1	0	0	1	1
+tat	tat	1	0	0	0	0	0	0	0	0
+	dadh		1	1	0	1	0	1	1	1
+tat	tat	1	0	0	0	0	0	0	0	0
+	that		1	0	1	0	0	0	0	1
+tat	tat	1	0	0	0	0	0	0	0	0
+	thad		1	1	1	0	0	0	1	1
+tat	tat	1	0	0	0	0	0	0	0	0
+	thath		1	0	1	0	0	0	0	1
+tat	tat	1	0	0	0	0	0	0	0	0
+	thadh		1	1	1	0	0	1	1	1
+tat	tat	1	0	0	0	0	0	0	0	0
+	dhat		1	1	1	1	0	1	1	1
+tat	tat	1	0	0	0	0	0	0	0	0
+	dhad		1	1	1	1	0	1	1	1
+tat	tat	1	0	0	0	0	0	0	0	0
+	dhath		1	1	1	1	0	1	1	1
+tat	tat	1	0	0	0	0	0	0	0	0
+	dhadh		1	1	1	1	0	1	1	1
+that	that	1	0	0	0	0	0	0	0	2
+	tat		1	0	1	0	0	0	0	0
+that	that	1	0	0	0	0	0	0	0	4
+	tad		1	1	1	0	0	0	1	0
+that	that	1	0	0	0	0	0	0	0	0
+	tath		1	0	1	0	0	0	0	0
+that	that	1	0	0	0	0	0	0	0	0
+	tadh		1	1	1	0	0	1	1	0
+that	that	1	0	0	0	0	0	0	0	5
+	dat		1	1	1	1	0	0	1	0
+that	that	1	0	0	0	0	0	0	0	5
+	dad		1	1	1	1	0	0	1	0
+that	that	1	0	0	0	0	0	0	0	0
+	dath		1	1	1	1	0	0	1	0
+that	that	1	0	0	0	0	0	0	0	0
+	dadh		1	1	1	1	0	1	1	0
+that	that	1	0	0	0	0	0	0	0	0
+	thad		0	1	0	0	0	0	1	0
+that	that	1	0	0	0	0	0	0	0	0
+	thath		1	0	0	0	0	0	0	1
+that	that	1	0	0	0	0	0	0	0	0
+	thadh		1	1	0	0	0	1	1	1
+that	that	1	0	0	0	0	0	0	0	0
+	dhat		0	1	0	1	0	1	1	0
+that	that	1	0	0	0	0	0	0	0	0
+	dhad		0	1	0	1	0	1	1	0
+that	that	1	0	0	0	0	0	0	0	0
+	dhath		1	1	0	1	0	1	1	1
+that	that	1	0	0	0	0	0	0	0	0
+	dhadh		1	1	0	1	0	1	1	1

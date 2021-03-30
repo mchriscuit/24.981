@@ -1,0 +1,6 @@
+			Onset	NoCoda	Fill(Nuc)	Parse	Fill(Ons)
+			Onset	*Coda	Dep(V)	Max	Dep(C)
+VCVC	[_V][CV]<C>	1				1	1
+	<V>[CV]<C>					2	
+	<V>[CV][C_]				1	1	
+	[V][CVC]		1	1			

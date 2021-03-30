@@ -1,0 +1,10 @@
+			Con1	Con2	Con3	Con4	Con5
+			Con1	Con2	Con3	Con4	Con5
+In1	Out1W	1		1			
+	Out1L		1		1		
+In2	Out2W	1			1		
+	Out2L			1		1	
+In3	Out3W	1				1	
+	Out3L				1		1
+In4	Out4W	1					1
+	Out4L					1	

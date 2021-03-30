@@ -1,0 +1,46 @@
+Length of tableau data: 8
+Inputs:
+['sa', 'sha', 'si', 'shi']
+
+Candidates:
+[['sa', 'sha'], ['sha', 'sa'], ['si', 'shi'], ['shi', 'si']]
+
+Candidate frequencies:
+[[1, 0], [0, 1], [0, 1], [1, 0]]
+
+Constraint violations:
+[[[0, 1, 0, 0], [0, 0, 1, 1]], [[0, 0, 1, 0], [0, 1, 0, 1]], [[1, 1, 0, 0], [0, 0, 1, 1]], [[0, 0, 1, 0], [1, 1, 0, 1]]]
+
+Length of training data: 4 inputs, 4 outputs
+
+Constraint types: ['M', 'M', 'M', 'F']
+
+Initial rankings: [10, 10, 10, 0]
+
+
+Trial 2: Learning is required, for input 3 /shi/.
+	Mom said: [shi]
+	I would have said [si]
+
+Trial 3: Learning is required, for input 1 /sha/.
+	Mom said: [sa]
+	I would have said [sha]
+
+Trial 5: Learning is required, for input 1 /sha/.
+	Mom said: [sa]
+	I would have said [sha]
+
+Trial 6: Learning is required, for input 2 /si/.
+	Mom said: [shi]
+	I would have said [si]
+
+Trial 8: Learning is required, for input 0 /sa/.
+	Mom said: [sa]
+	I would have said [sha]
+rankings after learning:
+	*si	10.2
+	*sh	10.1
+	*s	9.9
+	F(ant)	0.1
+
+Testing the final grammar. (See .out file for results)
