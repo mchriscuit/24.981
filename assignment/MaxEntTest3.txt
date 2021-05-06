@@ -1,0 +1,4 @@
+			C1	C2	C3	C4	C5
+			C1	C2	C3	C4	C5
+UR	Candidate1	1	1				
+	Candidate2						1
